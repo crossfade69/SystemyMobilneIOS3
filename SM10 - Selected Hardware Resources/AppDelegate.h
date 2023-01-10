@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  SM10 - Selected Hardware Resources
 //
-//  Created by Gracjan Ulianowski on 06/12/2022.
+//  Created by Michał Napiórkowski on 26/12/2022.
 //
 
 #import <UIKit/UIKit.h>
